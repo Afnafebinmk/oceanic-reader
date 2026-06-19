@@ -1,0 +1,6 @@
+{
+  "name": "Oceanic Reader",
+  "description": "Download books from Ocean of PDF and organize them into personal bookshelves for offline reading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
